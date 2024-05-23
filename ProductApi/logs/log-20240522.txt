@@ -1,0 +1,170 @@
+2024-05-22 12:12:57.511 -05:00 [Information] Now listening on: https://localhost:7221
+2024-05-22 12:12:57.527 -05:00 [Information] Now listening on: http://localhost:5104
+2024-05-22 12:12:57.528 -05:00 [Information] Application started. Press Ctrl+C to shut down.
+2024-05-22 12:12:57.529 -05:00 [Information] Hosting environment: Development
+2024-05-22 12:12:57.529 -05:00 [Information] Content root path: F:\work\tekton\Noram\Product\ProductApi
+2024-05-22 12:13:00.070 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/ - null null
+2024-05-22 12:13:00.217 -05:00 [Information] Request [GET] at / responded 404 in 0 ms
+2024-05-22 12:13:00.219 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/ - 404 0 null 150.8162ms
+2024-05-22 12:13:00.221 -05:00 [Information] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7221/, Response status code: 404
+2024-05-22 12:13:02.767 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/ - null null
+2024-05-22 12:13:02.771 -05:00 [Information] Request [GET] at / responded 404 in 0 ms
+2024-05-22 12:13:02.772 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/ - 404 0 null 4.8785ms
+2024-05-22 12:13:02.774 -05:00 [Information] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7221/, Response status code: 404
+2024-05-22 12:13:14.045 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger - null null
+2024-05-22 12:13:14.049 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger - 301 0 null 3.4632ms
+2024-05-22 12:13:14.051 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/index.html - null null
+2024-05-22 12:13:14.081 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/index.html - 200 null text/html;charset=utf-8 30.7043ms
+2024-05-22 12:13:14.095 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/swagger-ui.css - null null
+2024-05-22 12:13:14.101 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/swagger-ui-bundle.js - null null
+2024-05-22 12:13:14.102 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/swagger-ui-standalone-preset.js - null null
+2024-05-22 12:13:14.107 -05:00 [Information] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-22 12:13:14.101 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-22 12:13:14.109 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/swagger-ui.css - 200 152034 text/css 14.5539ms
+2024-05-22 12:13:14.112 -05:00 [Information] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-22 12:13:14.117 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 15.6681ms
+2024-05-22 12:13:14.118 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 16.0756ms
+2024-05-22 12:13:14.123 -05:00 [Information] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-22 12:13:14.124 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 23.3547ms
+2024-05-22 12:13:14.135 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/_vs/browserLink - null null
+2024-05-22 12:13:14.164 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.587ms
+2024-05-22 12:13:14.261 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/v1/swagger.json - null null
+2024-05-22 12:13:14.268 -05:00 [Information] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-05-22 12:13:14.275 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/favicon-32x32.png - null null
+2024-05-22 12:13:14.277 -05:00 [Information] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-22 12:13:14.277 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/favicon-32x32.png - 200 628 image/png 2.6545ms
+2024-05-22 12:13:14.406 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 145.4154ms
+2024-05-22 12:15:59.035 -05:00 [Information] Now listening on: https://localhost:7221
+2024-05-22 12:15:59.051 -05:00 [Information] Now listening on: http://localhost:5104
+2024-05-22 12:15:59.053 -05:00 [Information] Application started. Press Ctrl+C to shut down.
+2024-05-22 12:15:59.054 -05:00 [Information] Hosting environment: Development
+2024-05-22 12:15:59.054 -05:00 [Information] Content root path: F:\work\tekton\Noram\Product\ProductApi
+2024-05-22 12:15:59.315 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/ - null null
+2024-05-22 12:15:59.393 -05:00 [Information] Request [GET] at / responded 404 in 0 ms
+2024-05-22 12:15:59.395 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/ - 404 0 null 81.1952ms
+2024-05-22 12:15:59.397 -05:00 [Information] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7221/, Response status code: 404
+2024-05-22 12:16:03.163 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/index.html - null null
+2024-05-22 12:16:03.193 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/index.html - 200 null text/html;charset=utf-8 30.4251ms
+2024-05-22 12:16:03.206 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-22 12:16:03.211 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 4.3971ms
+2024-05-22 12:16:03.248 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/_vs/browserLink - null null
+2024-05-22 12:16:03.267 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.8078ms
+2024-05-22 12:16:03.384 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/v1/swagger.json - null null
+2024-05-22 12:16:03.391 -05:00 [Information] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-05-22 12:16:03.445 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 62.0648ms
+2024-05-22 12:16:08.611 -05:00 [Information] Request starting HTTP/2 POST https://localhost:7221/products - application/json 110
+2024-05-22 12:16:08.633 -05:00 [Information] Executing endpoint 'HTTP: POST /products'
+2024-05-22 12:16:08.952 -05:00 [Information] Saved 1 entities to in-memory store.
+2024-05-22 12:16:08.955 -05:00 [Information] Setting HTTP status code 201.
+2024-05-22 12:16:08.955 -05:00 [Information] Writing value of type 'Product' as Json.
+2024-05-22 12:16:08.957 -05:00 [Information] Request [POST] at /products responded 201 in 343 ms
+2024-05-22 12:16:08.958 -05:00 [Information] Executed endpoint 'HTTP: POST /products'
+2024-05-22 12:16:08.960 -05:00 [Information] Request finished HTTP/2 POST https://localhost:7221/products - 201 null application/json; charset=utf-8 348.6042ms
+2024-05-22 12:16:21.084 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/products/0 - null null
+2024-05-22 12:16:21.087 -05:00 [Information] Executing endpoint 'HTTP: GET /products/{id}'
+2024-05-22 12:16:21.182 -05:00 [Information] Setting HTTP status code 404.
+2024-05-22 12:16:21.183 -05:00 [Information] Executed endpoint 'HTTP: GET /products/{id}'
+2024-05-22 12:16:21.183 -05:00 [Information] Request [GET] at /products/0 responded 404 in 96 ms
+2024-05-22 12:16:21.184 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/products/0 - 404 0 null 100.0859ms
+2024-05-22 12:16:29.043 -05:00 [Information] Request starting HTTP/2 POST https://localhost:7221/products - application/json 110
+2024-05-22 12:16:29.044 -05:00 [Information] Executing endpoint 'HTTP: POST /products'
+2024-05-22 12:16:29.100 -05:00 [Error] An exception occurred in the database while saving changes for context type 'ProductApi.Infrastructure.ProductDbContext'.
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-05-22 12:16:29.138 -05:00 [Information] Executed endpoint 'HTTP: POST /products'
+2024-05-22 12:16:29.147 -05:00 [Error] An unhandled exception has occurred while executing the request.
+System.ArgumentException: An item with the same key has already been added. Key: 1
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryTable`1.Create(IUpdateEntry entry, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryStore.ExecuteTransaction(IList`1 entries, IDiagnosticsLogger`1 updateLogger)
+   at Microsoft.EntityFrameworkCore.InMemory.Storage.Internal.InMemoryDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at ProductApi.Infrastructure.ProductRepository.AddAsync(Product product) in F:\work\tekton\Noram\Product\ProductApi\Infraestructure\ProductRepository.cs:line 18
+   at ProductApi.Application.ProductService.AddProductAsync(Product product) in F:\work\tekton\Noram\Product\ProductApi\Application\ProductService.cs:line 15
+   at Program.<>c.<<<Main>$>b__0_2>d.MoveNext() in F:\work\tekton\Noram\Product\ProductApi\Program.cs:line 53
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ProductApi.Application.RequestLoggingMiddleware.InvokeAsync(HttpContext context) in F:\work\tekton\Noram\Product\ProductApi\Application\RequestLoggingMiddleware.cs:line 21
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-22 12:16:29.160 -05:00 [Information] Request [POST] at /products responded 500 in 115 ms
+2024-05-22 12:16:29.161 -05:00 [Information] Request finished HTTP/2 POST https://localhost:7221/products - 500 null text/plain; charset=utf-8 118.247ms
+2024-05-22 12:16:37.991 -05:00 [Information] Request starting HTTP/2 POST https://localhost:7221/products - application/json 110
+2024-05-22 12:16:37.992 -05:00 [Information] Executing endpoint 'HTTP: POST /products'
+2024-05-22 12:16:37.994 -05:00 [Information] Saved 1 entities to in-memory store.
+2024-05-22 12:16:37.995 -05:00 [Information] Setting HTTP status code 201.
+2024-05-22 12:16:37.996 -05:00 [Information] Writing value of type 'Product' as Json.
+2024-05-22 12:16:37.996 -05:00 [Information] Request [POST] at /products responded 201 in 4 ms
+2024-05-22 12:16:37.997 -05:00 [Information] Executed endpoint 'HTTP: POST /products'
+2024-05-22 12:16:37.998 -05:00 [Information] Request finished HTTP/2 POST https://localhost:7221/products - 201 null application/json; charset=utf-8 7.7168ms
+2024-05-22 12:16:44.033 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/products/1 - null null
+2024-05-22 12:16:44.036 -05:00 [Information] Executing endpoint 'HTTP: GET /products/{id}'
+2024-05-22 12:16:44.041 -05:00 [Information] Setting HTTP status code 200.
+2024-05-22 12:16:44.041 -05:00 [Information] Writing value of type 'Product' as Json.
+2024-05-22 12:16:44.042 -05:00 [Information] Request [GET] at /products/1 responded 200 in 6 ms
+2024-05-22 12:16:44.042 -05:00 [Information] Executed endpoint 'HTTP: GET /products/{id}'
+2024-05-22 12:16:44.043 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/products/1 - 200 null application/json; charset=utf-8 10.3126ms
+2024-05-22 12:16:46.569 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/products/2 - null null
+2024-05-22 12:16:46.571 -05:00 [Information] Executing endpoint 'HTTP: GET /products/{id}'
+2024-05-22 12:16:46.572 -05:00 [Information] Setting HTTP status code 200.
+2024-05-22 12:16:46.573 -05:00 [Information] Writing value of type 'Product' as Json.
+2024-05-22 12:16:46.574 -05:00 [Information] Request [GET] at /products/2 responded 200 in 2 ms
+2024-05-22 12:16:46.574 -05:00 [Information] Executed endpoint 'HTTP: GET /products/{id}'
+2024-05-22 12:16:46.575 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/products/2 - 200 null application/json; charset=utf-8 6.5146ms
+2024-05-22 12:32:40.637 -05:00 [Information] Now listening on: https://localhost:7221
+2024-05-22 12:32:40.653 -05:00 [Information] Now listening on: http://localhost:5104
+2024-05-22 12:32:40.654 -05:00 [Information] Application started. Press Ctrl+C to shut down.
+2024-05-22 12:32:40.655 -05:00 [Information] Hosting environment: Development
+2024-05-22 12:32:40.656 -05:00 [Information] Content root path: F:\work\tekton\Noram\Product\ProductApi
+2024-05-22 12:32:40.995 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/ - null null
+2024-05-22 12:32:41.079 -05:00 [Information] Request [GET] at / responded 404 in 1 ms
+2024-05-22 12:32:41.080 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/ - 404 0 null 86.8166ms
+2024-05-22 12:32:41.083 -05:00 [Information] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7221/, Response status code: 404
+2024-05-22 12:32:44.591 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/index.html - null null
+2024-05-22 12:32:44.626 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/index.html - 200 null text/html;charset=utf-8 34.5158ms
+2024-05-22 12:32:44.643 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-22 12:32:44.648 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 4.8001ms
+2024-05-22 12:32:44.679 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/_vs/browserLink - null null
+2024-05-22 12:32:44.700 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.4054ms
+2024-05-22 12:32:44.740 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/swagger/v1/swagger.json - null null
+2024-05-22 12:32:44.746 -05:00 [Information] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-05-22 12:32:44.798 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 58.6004ms
+2024-05-22 12:32:48.861 -05:00 [Information] Request starting HTTP/2 POST https://localhost:7221/products - application/json 110
+2024-05-22 12:32:48.869 -05:00 [Information] Executing endpoint 'HTTP: POST /products'
+2024-05-22 12:32:49.205 -05:00 [Information] Saved 1 entities to in-memory store.
+2024-05-22 12:32:49.210 -05:00 [Information] Setting HTTP status code 201.
+2024-05-22 12:32:49.211 -05:00 [Information] Writing value of type 'Product' as Json.
+2024-05-22 12:32:49.214 -05:00 [Information] Request [POST] at /products responded 201 in 349 ms
+2024-05-22 12:32:49.215 -05:00 [Information] Executed endpoint 'HTTP: POST /products'
+2024-05-22 12:32:49.218 -05:00 [Information] Request finished HTTP/2 POST https://localhost:7221/products - 201 null application/json; charset=utf-8 356.815ms
+2024-05-22 12:32:58.107 -05:00 [Information] Request starting HTTP/2 GET https://localhost:7221/products/1 - null null
+2024-05-22 12:32:58.110 -05:00 [Information] Executing endpoint 'HTTP: GET /products/{id}'
+2024-05-22 12:32:58.389 -05:00 [Information] Setting HTTP status code 200.
+2024-05-22 12:32:58.392 -05:00 [Information] Writing value of type 'ProductResponseDto' as Json.
+2024-05-22 12:32:58.394 -05:00 [Information] Request [GET] at /products/1 responded 200 in 283 ms
+2024-05-22 12:32:58.395 -05:00 [Information] Executed endpoint 'HTTP: GET /products/{id}'
+2024-05-22 12:32:58.397 -05:00 [Information] Request finished HTTP/2 GET https://localhost:7221/products/1 - 200 null application/json; charset=utf-8 289.8881ms
